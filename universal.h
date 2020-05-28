@@ -49,6 +49,8 @@
 
 #define VERSION                         "VERSION 1.0.0"
 
+#define TEST							(0)
+
 //------------------------------------------------------------------------------
 //Macros
 //(void)(&_min1 == &_min2) is a guaranteed "no-op".  It forces the compiler to
